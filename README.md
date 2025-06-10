@@ -1,3 +1,10 @@
+COMISION: 3K3
+INTEGRANTES: 
+Lopez Aguero Martina 57864
+Herrera Catalina 58463
+
+
+
 # Ejercicio N° 14
 ## Desarrollo de Software
 ### API Web
